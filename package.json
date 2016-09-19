@@ -1,0 +1,21 @@
+{
+  "name": "schema-construct",
+  "version": "0.1.0",
+  "main": "./lib/index.js",
+  "description": "takes in jsonschema and returns a constructor for that model",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chemdrew/schema-construct.git"
+  },
+  "author": "chemdrew <chemdrew1@gmail.com>",
+  "keywords": [
+    "jsonschema",
+    "swagger",
+    "spec",
+    "model",
+    "object",
+    "instantiate",
+    "constructor"
+  ],
+  "license": "MIT"
+}
